@@ -1,1 +1,2 @@
-# webPackTesting
+npm install
+npm run dev
