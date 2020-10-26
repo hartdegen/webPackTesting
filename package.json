@@ -1,0 +1,23 @@
+{
+  "name": "webpackfolder",
+  "version": "1.0.0",
+  "description": "webpack descr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "js",
+    "bewpack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.2.0",
+    "webpack-cli": "^4.1.0"
+  }
+}
