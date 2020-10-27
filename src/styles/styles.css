@@ -1,5 +1,5 @@
 @import "~normalize.css/normalize.css";
-/* символ ~ ведёт в папку node_modules*/
+/* символ ~ ведёт в папку node_modules */
 @import "roboto.css";
 
 body {
@@ -22,4 +22,8 @@ h1 {
     height: 200px;
     width: 200px;
     margin: 0 auto;
+}
+
+.code {
+    color: crimson;
 }
