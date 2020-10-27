@@ -6,6 +6,8 @@ import xml from './assets/data.xml'
 import csv from './assets/data.csv'
 import imgWebPack from '@/assets/iconWP.png'
 import './styles/styles.css'
+import './styles/less.less'
+import './styles/scss.scss'
 
 const post = new Post('Webpack Omegalul', imgWebPack)
 $('pre').addClass('code').html(post.toString())
